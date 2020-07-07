@@ -1,0 +1,21 @@
+index,continous,categorical,categorical,categorical,categorical
+#Sample ID,Depth(m),sulfide,ParticS,redox_regime,redoxcline_pos
+AC-GL4-102,10,0,0,oxic,above
+AC-GL4-71,15,0,0,oxic,upper boundary
+AC-GL4-73,16,0,0,oxic,inside
+AC-GL4-69,19,0,0,hypoxic,inside
+AC-GL4-54,20.5,1,2,euxinic,below
+AC-GL4-60,21,1,1,euxinic,below
+AC-GL4-50,23,1,0,euxinic,below
+AC-GL4-61,25,1,0,euxinic,below
+AC-GL4-70,40,1,0,euxinic,below
+AC-GL4-102C,10,0,0,oxic,above
+AC-GL4-71C,15,0,0,oxic,upper boundary
+AC-GL4-73C,16,0,0,oxic,inside
+AC-GL4-69C,19,0,0,hypoxic,inside
+AC-GL4-54C,20.5,1,2,euxinic,below
+AC-GL4-60C,21,1,1,euxinic,below
+AC-GL4-50C,23,1,0,euxinic,below
+AC-GL4-61C,25,1,0,euxinic,below
+AC-GL4-70C,40,1,0,euxinic,below
+blank,NAN,NAN,NAN,NAN,NAN
